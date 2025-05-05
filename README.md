@@ -2,9 +2,20 @@
 
 A rather simple plugin to run your cpp/python code with specifical sample in neovim, especial fit with begginer
 
+## 📺 display
+![Cpp](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Cpp.mkv)
+
+![Python](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Python.mkv)
+
+![Close](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Close.mkv)
+
 ## ✨ Features
 
 - Fast compilation and execution with visual input/output display
+
+- Save your sample so that no need to retype  it
+
+- Independent  and clear input and output showcase
 
 ## 📦 Installation (for LazyVim)
 
@@ -35,7 +46,7 @@ return {
 2. more language
 3. more windows styles
 
-but for now, it's enough... Maybe its the unltimate version...☺️
+but for now, it's enough... Maybe its the ultimate version...☺️
 
 ## ✉️ Other talk
 
