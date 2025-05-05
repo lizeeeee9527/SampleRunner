@@ -4,11 +4,11 @@ A rather simple plugin to run your cpp/python code with specifical sample in neo
 
 ## 📺 display
 
-![Cpp](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Cpp.mkv)
+![Cpp](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Cpp.gif)
 
-![Python](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Python.mkv)
+![Python](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Python.gif)
 
-![Close](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Close.mkv)
+![Close](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Close.gif)
 
 
 ## ✨ Features
