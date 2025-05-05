@@ -3,12 +3,11 @@
 A rather simple plugin to run your cpp/python code with specifical sample in neovim, especial fit with begginer
 
 ## 📺 display
-![Cpp](https://github.com/lizeeeee9527/SampleRunner.nvim/tree/main/Display/Cpp.gif)
+![Cpp](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Cpp.gif)
 
-![Python](https://github.com/lizeeeee9527/SampleRunner.nvim/tree/main/Display/Python.gif)
+![Python](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Python.gif)
 
-![Close](https://github.com/lizeeeee9527/SampleRunner.nvim/tree/main/Display/Close.gif)
-
+![Close](https://github.com/lizeeeee9527/SampleRunner.nvim/blob/main/Display/Close.gif)
 
 ## ✨ Features
 
