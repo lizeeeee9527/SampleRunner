@@ -42,7 +42,7 @@ return {
 2. more language
 3. more windows styles
 
-but for now, it's enough... Maybe its the unltimate version...☺️
+but for now, it's enough... Maybe its the ultimate version...☺️
 
 ## ✉️ Other talk
 
